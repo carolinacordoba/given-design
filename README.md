@@ -1,36 +1,28 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7O3utUNR)
-# Given design
+# Given Design
 
-Denna uppgift går ut på att ni skall skapa en hemsida som ser ut som den givna mallen. Ni skall försöka komma så nära som möjligt i både placering, utseende och funktionalitet. Ni får bara använda html och css i denna uppgift, inga ramverk eller bibliotek.
+## 📝 Beskrivning
 
-## assets
+En individuell skoluppgift där målet var att återskapa en given webbsidesdesign så nära originalet som möjligt. Fokus låg på att använda **modern CSS-teknik** och skapa en **responsiv layout** utan hjälp av ramverk eller bibliotek. Detta är mitt första arbete inom kodning, vilket gjorde uppgiften extra lärorik och spännande.
 
-Mappen assets innehåller de filer som ni behöver för att skapa den presentationen som behövs. Resten är upp till er css.
+### 📸 Desktop
 
-## description
+![Desktopvy](assets/screenshots/desktop.png)
+![Mobilvy](assets/screenshots/mobile.png)
 
-Mappen innehåller en beskrivningen över er uppgift.
+---
 
-## Inlämning
+## 🎯 Mål
 
-Inlämning sker genom att ni har gjort en sista push innan deadline.
+- Efterlikna den givna designen med hög visuell likhet
+- Använda HTML och CSS med god struktur
+- Skapa en responsiv layout med hjälp av **Flexbox** och/eller **CSS Grid**
 
-## Tips
+## 🧱 Tekniker
 
-Inga speciella fonter har använts i denna uppgift så det går bra att använda en standardfont.
+- HTML5
+- CSS3
+- Flexbox / Grid
 
-## Betyg
+## 📄 Licens
 
-### G
-
-- Ni har gjort en bra sida som liknar den sida ni fick till stor del (Några missar är ok)
-- Ni har använt minst en flex/grid-del
-- Ni har använt syntaxmässigt god HTML
-- Använd god CSS, både med avseende på struktur och selektorer
-
-### VG
-
-- Er sida liknar mycket väl orginalet (Någon enstaka miss kan vara ok)
-- Ni har använt er av flex/grid för nästan all struktur/css
-- Sidan är fullt responsiv enligt krav
-- Använda SCSS
+Detta är ett skolprojekt och ingen licens är applicerad.
